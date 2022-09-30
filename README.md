@@ -1,9 +1,7 @@
 ![16366925243845 (1)](https://user-images.githubusercontent.com/60159274/193369854-51e7c21f-228d-47b5-9b04-a0d39f37dd19.jpg)
-
-# World Cup QATAR 2022 Prediction: Project Overview
-
 <img width="1348" alt="Screen Shot 2022-09-30 at 3 15 39 PM" src="https://user-images.githubusercontent.com/60159274/193369758-9105f128-a3b1-4d06-9c21-361c327a69ff.png">
 
+# World Cup QATAR 2022 Prediction: Project Overview
  
 ## Code and Resources Used
 
