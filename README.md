@@ -6,6 +6,9 @@
 * ![download-7](https://user-images.githubusercontent.com/60159274/193367122-b0f77cf5-f40d-4b7a-9b57-9c8be03a23a6.png)
 ![download-8](https://user-images.githubusercontent.com/60159274/193367124-28a6a8d5-cd57-423f-b0cb-929b218b2228.png)
 ![download-6](https://user-images.githubusercontent.com/60159274/193367126-b91aa1f8-c3ee-40aa-a073-93eb2804b2ee.png)
+![download-9](https://user-images.githubusercontent.com/60159274/193367219-0596082e-a16f-46d6-ac41-39b79ddf1801.png)
+![download-10](https://user-images.githubusercontent.com/60159274/193367220-c0f00f09-5ddd-49c6-8cdc-22f3f17afdf7.png)
+![download-5](https://user-images.githubusercontent.com/60159274/193367221-892e4f36-a482-4e75-8e48-d8710f29e7aa.png)
 
 
 ## QATAR22_EDA+Data_Preparation
