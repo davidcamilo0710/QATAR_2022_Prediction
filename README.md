@@ -1,5 +1,5 @@
- <img width="1348" alt="Screen Shot 2022-09-30 at 3 15 39 PM" src="https://user-images.githubusercontent.com/60159274/193349659-36b7b640-5dd7-48d6-8fd2-45d2e95019be.png">
- 
+![qatarrrrrrrr (1)](https://user-images.githubusercontent.com/60159274/193369478-b4dd61a0-754a-448e-af26-b148c039b9a5.png)
+
 # World Cup QATAR 2022 Prediction: Project Overview
  
 ## Code and Resources Used
