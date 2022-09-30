@@ -1,4 +1,4 @@
-![qatarrrrrrrr (1)](https://user-images.githubusercontent.com/60159274/193369478-b4dd61a0-754a-448e-af26-b148c039b9a5.png)
+![16366925243845](https://user-images.githubusercontent.com/60159274/193369511-fa35fcb0-0afe-4c52-8ffb-1d409ce296b7.jpg)
 
 # World Cup QATAR 2022 Prediction: Project Overview
  
