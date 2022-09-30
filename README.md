@@ -6,7 +6,7 @@
 * 
 
 ## QATAR22_EDA+Data_Preparation
-![download-2](https://user-images.githubusercontent.com/60159274/193364919-f8f661da-e215-408e-a331-9168a2a1ccd9.png) ![download-3](https://user-images.githubusercontent.com/60159274/193364924-6a17f6c0-a89e-49d4-884e-0b21d87f53e5.png)
+![download-2](https://user-images.githubusercontent.com/60159274/193364919-f8f661da-e215-408e-a331-9168a2a1ccd9.png | width=100) ![download-3](https://user-images.githubusercontent.com/60159274/193364924-6a17f6c0-a89e-49d4-884e-0b21d87f53e5.png | width=100)
 
 ## Getting_Squads_Stats
 
