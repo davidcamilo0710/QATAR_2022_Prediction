@@ -7,21 +7,27 @@
 
 ## QATAR22_EDA+Data_Preparation
 Which teams have the best offence?
+
 ![download-12](https://user-images.githubusercontent.com/60159274/193368513-18266a41-cef3-4dac-9273-dfecc0357b3e.png)
 
-Which teams have the best midfield?
-![download-11](https://user-images.githubusercontent.com/60159274/193368515-2a046f68-61a2-421d-9e74-b0420bd452e9.png)
-
 Which teams have the best defence?
+
 ![download-8](https://user-images.githubusercontent.com/60159274/193368518-889e1672-d759-4e80-85e6-6de64f6f3e1c.png)
 
+Which teams have the best midfield?
+
+![download-11](https://user-images.githubusercontent.com/60159274/193368515-2a046f68-61a2-421d-9e74-b0420bd452e9.png)
+
 Which teams have the highest winning percentage?
+
 ![download-6](https://user-images.githubusercontent.com/60159274/193368516-68e21bf6-bc91-4759-80d9-767271dc0636.png)
 
 Who are the best players in Qatar 2022?
+
 ![download-4](https://user-images.githubusercontent.com/60159274/193368542-4f9e200e-9c32-4b0b-b98c-6e2ce0186f42.png)
 
 What are the most promising teams?
+
 ![download-5](https://user-images.githubusercontent.com/60159274/193368544-11f6f51f-2a2d-4812-af89-4eed5e71763d.png)
 
 ![download-7](https://user-images.githubusercontent.com/60159274/193368561-dd1398c8-dcad-4575-b3aa-2f4a30719444.png)
