@@ -1,0 +1,65 @@
+country1,country2,group
+Qatar,Ecuador,a
+Senegal,Netherlands,a
+England,IR Iran,b
+USA,Wales,b
+France,Australia,d
+Denmark,Tunisia,d
+Mexico,Poland,c
+Argentina,Saudi Arabia,c
+Belgium,Canada,f
+Spain,Costa Rica,e
+Germany,Japan,e
+Morocco,Croatia,f
+Switzerland,Cameroon,g
+Uruguay,Korea Republic,h
+Portugal,Ghana,h
+Brazil,Serbia,g
+Wales,IR Iran,b
+Qatar,Senegal,a
+Netherlands,Ecuador,a
+England,USA,b
+Tunisia,Australia,d
+Poland,Saudi Arabia,c
+France,Denmark,d
+Argentina,Mexico,c
+Japan,Costa Rica,e
+Belgium,Morocco,f
+Croatia,Canada,f
+Spain,Germany,e
+Cameroon,Serbia,g
+Korea Republic,Ghana,h
+Brazil,Switzerland,g
+Portugal,Uruguay,h
+Wales,England,b
+IR Iran,USA,b
+Ecuador,Senegal,a
+Netherlands,Qatar,a
+Australia,Denmark,d
+Tunisia,France,d
+Poland,Argentina,c
+Saudi Arabia,Mexico,c
+Croatia,Belgium,f
+Canada,Morocco,f
+Japan,Spain,e
+Costa Rica,Germany,e
+Ghana,Uruguay,h
+Korea Republic,Portugal,h
+Serbia,Switzerland,g
+Cameroon,Brazil,g
+1a,2b,s1
+1c,2d,s2
+1e,2f,t1
+1g,2h,t2
+1b,2a,u1
+1d,2c,u2
+1f,2e,v1
+1h,2g,v2
+s1,s2,w1
+t1,t2,w2
+u1,u2,x1
+v1,v2,x2
+w1,w2,y1
+x1,x2,y2
+y1,y2,f
+z1,z2,f3
