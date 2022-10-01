@@ -2,7 +2,7 @@
 <img width="1348" alt="Screen Shot 2022-09-30 at 3 15 39 PM" src="https://user-images.githubusercontent.com/60159274/193369758-9105f128-a3b1-4d06-9c21-361c327a69ff.png">
 
 # World Cup QATAR 2022 Prediction: Project Overview
- 
+
 ## Resources Used
 
 ## EDA
@@ -11,7 +11,7 @@ From datasets l1 and l2, the notebooks n1 and n2 answer the questions listed bel
 
 * Who are the best players in Qatar 2022?
 
-![download-4](https://user-images.githubusercontent.com/60159274/193368542-4f9e200e-9c32-4b0b-b98c-6e2ce0186f42.png)
+![download-2](https://user-images.githubusercontent.com/60159274/193378980-b2302754-6514-449d-b890-cce0a716a519.png)
 
 * Which teams have the best offence?
 
