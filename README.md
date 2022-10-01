@@ -5,6 +5,12 @@
 
 ## Resources Used
 
+## Data preparation and dataset creation
+
+* Both datasets l1 and l2 were prepared for analysis and the creation of the training dataset of the Machine learning model. The preparation consists of fixing the na's values and removing the information of the teams that will not participate in the cup.
+
+* From dataset L1, create training dataset l3 and inference dataset l4. l3 contains the names of the teams facing each other, the FIFA ranking of each team, and the rating of both teams' defense, midfield, and offense. On the other hand, the inference dataset contains the qualification of each team on its last FIFA date.
+
 ## EDA
 
 From datasets l1 and l2, the notebooks n1 and n2 answer the questions listed below. These questions allow us to get an idea of the favorites to win the cup according to statistics.
@@ -39,7 +45,7 @@ This question is fundamental. The graph below shows that the home teams win more
 
 ![download-7](https://user-images.githubusercontent.com/60159274/193368561-dd1398c8-dcad-4575-b3aa-2f4a30719444.png)
 
-## Getting_Squads_Stats
+
 
 ## Modeling+Tuning
 ![download-10](https://user-images.githubusercontent.com/60159274/193368594-3d6f69a8-cc6c-456c-9408-a2ebc1f72ee1.png)
