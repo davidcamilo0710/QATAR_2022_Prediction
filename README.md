@@ -5,6 +5,12 @@
 
 ## Resources Used
 
+* Python Version: 3.7
+* Packages: Pandas, NumPy, Sklearn, Tensorflow, and Seaborn.
+* Data: 
+  * international_matches.csv
+  * players_22.csv
+
 ## Data preparation and dataset creation
 
 * Both datasets l1 and l2 were prepared for analysis and the creation of the training dataset of the Machine learning model. The preparation consists of fixing the na's values and removing the information of the teams that will not participate in the cup.
