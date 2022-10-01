@@ -29,17 +29,15 @@ From datasets l1 and l2, the notebooks n1 and n2 answer the questions listed bel
 
 ![download-6](https://user-images.githubusercontent.com/60159274/193368516-68e21bf6-bc91-4759-80d9-767271dc0636.png)
 
-* Does it have any advantage to be the local team?
-
-This question is fundamental. The graph below shows that the home teams win more than 50% of the home games. This is due to different reasons, e.g., the familiarity with the field of play, the movement that the visiting teams must make, the feeling of territoriality, the support of the public, and innumerable factors. 
-
-When the Colombian National Team visits the Maracana stadium to play against Brazil, they tend to lose the match or draw. However, they tend to tie or win when Colombia is local in the Metropolitano stadium. For this reason, to predict the result of the matches from a Machine Learning model, I must define the home team and the visiting team.
-
-![download-7](https://user-images.githubusercontent.com/60159274/193368561-dd1398c8-dcad-4575-b3aa-2f4a30719444.png)
-
 * What are the most promising teams?
 
 ![download-5](https://user-images.githubusercontent.com/60159274/193368544-11f6f51f-2a2d-4812-af89-4eed5e71763d.png)
+
+* Does it have any advantage to be the local team?
+
+This question is fundamental. The graph below shows that the home teams win more than 50% of the home games. This is due to different reasons, e.g., the familiarity with the field of play, the movement that the visiting teams must make, the feeling of territoriality, the support of the public, and innumerable factors. When the Colombian National Team visits the Maracana stadium to play against Brazil, they tend to lose the match or draw. However, they tend to tie or win when Colombia is local in the Metropolitano stadium. For this reason, to predict the result of the matches from a Machine Learning model, I must define the home team and the visiting team.
+
+![download-7](https://user-images.githubusercontent.com/60159274/193368561-dd1398c8-dcad-4575-b3aa-2f4a30719444.png)
 
 ## Getting_Squads_Stats
 
