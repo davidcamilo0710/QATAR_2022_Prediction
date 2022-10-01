@@ -13,13 +13,13 @@
 
 ## Data preparation and dataset creation
 
-* Both datasets l1 and l2 were prepared for analysis and the creation of the training dataset of the Machine learning model. The preparation consists of fixing the na's values and removing the information of the teams that will not participate in the cup.
+* Both datasets [international_matches.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/international_matches.csv) and [players_22.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/players_22.csv) were prepared for analysis and the creation of the training dataset of the Machine learning model. The preparation consists of fixing the na's values and removing the information of the teams that will not participate in the cup.
 
-* From dataset L1, create training dataset l3 and inference dataset l4. l3 contains the names of the teams facing each other, the FIFA ranking of each team, and the rating of both teams' defense, midfield, and offense. On the other hand, the inference dataset contains the qualification of each team on its last FIFA date.
+* From dataset [international_matches.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/international_matches.csv), create training dataset [training.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/training.csv) and inference dataset [last_team_scores.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/last_team_scores.csv). [training.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/training.csv) contains the names of the teams facing each other, the FIFA ranking of each team, and the rating of both teams' defense, midfield, and offense. On the other hand, the inference dataset contains the qualification of each team on its last FIFA date.
 
 ## EDA
 
-From datasets l1 and l2, the notebooks n1 and n2 answer the questions listed below. These questions allow us to get an idea of the favorites to win the cup according to statistics.
+From datasets [international_matches.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/international_matches.csv) and [players_22.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/players_22.csv), the notebooks [QATAR22_EDA+Data_Preparation.ipynb](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/QATAR22_EDA%2BData_Preparation.ipynb) and [Getting_Squads_Stats.ipynb](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/Getting_Squads_Stats.ipynb) answer the questions listed below. These questions allow us to get an idea of the favorites to win the cup according to statistics.
 
 * Which National soccer teams have the best offence?
 
@@ -53,7 +53,7 @@ This question is fundamental. The graph below shows that the home teams win more
 
 ## Modeling and Tuning
 
-The n3 notebook aims to train the Machine learning model that will predict the outcome of the World Cup matches. This notebook chooses one ML model to predict the group stage matches and another for the knockout stage. the difference is that the result of the group stage matches can be a loss, a draw, or a win. On the other hand, in the direct elimination stage, there is only defeat or victory. The best model for each stage is chosen among the algorithms:
+The [Modeling+Tuning.ipynb](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/Modeling%2BTuning.ipynb) notebook aims to train the Machine learning model that will predict the outcome of the World Cup matches. This notebook chooses one ML model to predict the group stage matches and another for the knockout stage. the difference is that the result of the group stage matches can be a loss, a draw, or a win. On the other hand, in the direct elimination stage, there is only defeat or victory. The best model for each stage is chosen among the algorithms:
 
 * Random Forest
 * Ada Boost Classifier
@@ -72,4 +72,4 @@ The XGB Boost model presents the best performance in both stages. Therefore it i
 
 ## Predictions
 
-Finally, notebook n4 uses the inference datasets and the trained models to predict the World Cup matches and thus find the winner of the World Cup. It is essential to mention that to choose who is the home team in each World Cup match, use dataset l5, which provides the potential of each team; therefore, the team with more significant potential will be the home team.
+Finally, notebook [Predictions.ipynb](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/Predictions.ipynb) uses the inference datasets and the trained models to predict the World Cup matches and thus find the winner of the World Cup. It is essential to mention that to choose who is the home team in each World Cup match, use dataset [squad_stats.csv](https://github.com/davidcamilo0710/QATAR_2022_Prediction/blob/master/data/squad_stats.csv), which provides the potential of each team; therefore, the team with more significant potential will be the home team.
