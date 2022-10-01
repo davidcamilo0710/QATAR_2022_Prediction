@@ -8,8 +8,8 @@
 * Python Version: 3.7
 * Packages: Pandas, NumPy, Sklearn, Tensorflow, and Seaborn.
 * Data: 
-  * international_matches.csv
-  * players_22.csv
+  * international_matches.csv - https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022
+  * players_22.csv - https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset
 
 ## Data preparation and dataset creation
 
