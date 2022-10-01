@@ -45,10 +45,25 @@ This question is fundamental. The graph below shows that the home teams win more
 
 ![download-7](https://user-images.githubusercontent.com/60159274/193368561-dd1398c8-dcad-4575-b3aa-2f4a30719444.png)
 
+## Modeling and Tuning
 
+The n3 notebook aims to train the Machine learning model that will predict the outcome of the World Cup matches. This notebook chooses one ML model to predict the group stage matches and another for the knockout stage. the difference is that the result of the group stage matches can be a loss, a draw, or a win. On the other hand, in the direct elimination stage, there is only defeat or victory. The best model for each stage is chosen among the algorithms:
 
-## Modeling+Tuning
+* Random Forest
+* Ada Boost Classifier
+* XGB Boost
+* Neural Networks
+
+The XGB Boost model presents the best performance in both stages. Therefore it is tuned, validated, and exported as a pipeline to perform easy inferences.
+
+* Confusion matrix of the group stage model tuned and validated
+
 ![download-10](https://user-images.githubusercontent.com/60159274/193368594-3d6f69a8-cc6c-456c-9408-a2ebc1f72ee1.png)
+
+* Confusion matrix of the knockout stage model tuned and validated
+
 ![download-9](https://user-images.githubusercontent.com/60159274/193368596-cbd0a492-7399-49af-be28-bd6c4a014694.png)
 
 ## Predictions
+
+Finally, notebook n4 uses the inference datasets and the trained models to predict the World Cup matches and thus find the winner of the World Cup.
