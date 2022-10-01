@@ -9,25 +9,25 @@
 
 From datasets l1 and l2, the notebooks n1 and n2 answer the questions listed below. These questions allow us to get an idea of the favorites to win the cup according to statistics.
 
-* Who are the best players in Qatar 2022?
-
-![download-2](https://user-images.githubusercontent.com/60159274/193378980-b2302754-6514-449d-b890-cce0a716a519.png)
-
-* Which teams have the best offence?
+* Which National soccer teams have the best offence?
 
 ![download-12](https://user-images.githubusercontent.com/60159274/193368513-18266a41-cef3-4dac-9273-dfecc0357b3e.png)
 
-* Which teams have the best defence?
+* Which National soccer teams have the best defence?
 
 ![download-8](https://user-images.githubusercontent.com/60159274/193368518-889e1672-d759-4e80-85e6-6de64f6f3e1c.png)
 
-* Which teams have the best midfield?
+* Which National soccer team have the best midfield?
 
 ![download-11](https://user-images.githubusercontent.com/60159274/193368515-2a046f68-61a2-421d-9e74-b0420bd452e9.png)
 
 * Which teams have the highest winning percentage?
 
 ![download-6](https://user-images.githubusercontent.com/60159274/193368516-68e21bf6-bc91-4759-80d9-767271dc0636.png)
+
+* Who are the best players in Qatar 2022?
+
+![download-2](https://user-images.githubusercontent.com/60159274/193378980-b2302754-6514-449d-b890-cce0a716a519.png)
 
 * What are the most promising teams?
 
