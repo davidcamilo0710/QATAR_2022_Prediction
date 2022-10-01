@@ -66,4 +66,4 @@ The XGB Boost model presents the best performance in both stages. Therefore it i
 
 ## Predictions
 
-Finally, notebook n4 uses the inference datasets and the trained models to predict the World Cup matches and thus find the winner of the World Cup.
+Finally, notebook n4 uses the inference datasets and the trained models to predict the World Cup matches and thus find the winner of the World Cup. It is essential to mention that to choose who is the home team in each World Cup match, use dataset l5, which provides the potential of each team; therefore, the team with more significant potential will be the home team.
