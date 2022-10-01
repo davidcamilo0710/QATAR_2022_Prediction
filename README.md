@@ -3,6 +3,8 @@
 
 # World Cup QATAR 2022 Prediction: Project Overview
 
+This project aims to predict the results of the QATAR 2022 World Cup from the international matches held since the 90s, the qualifications of the teams in their last matches, and the potential of each team.
+
 ## Resources Used
 
 * Python Version: 3.7
