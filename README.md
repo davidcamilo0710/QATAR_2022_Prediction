@@ -7,7 +7,12 @@
 
 ## QATAR22_EDA+Data_Preparation
 
-From dataset l1, I can answer the questions:
+From datasets l1 and l2, I could answer the questions listed below, which allow us to get an idea of the favorites to win the cup according to statistics.
+
+* Who are the best players in Qatar 2022?
+
+![download-4](https://user-images.githubusercontent.com/60159274/193368542-4f9e200e-9c32-4b0b-b98c-6e2ce0186f42.png)
+
 * Which teams have the best offence?
 
 ![download-12](https://user-images.githubusercontent.com/60159274/193368513-18266a41-cef3-4dac-9273-dfecc0357b3e.png)
@@ -26,11 +31,11 @@ From dataset l1, I can answer the questions:
 
 * Does it have any advantage to be the local team?
 
+This question is fundamental. The graph below shows that the home teams win more than 50% of the home games. This is due to different reasons, e.g., the familiarity with the field of play, the movement that the visiting teams must make, the feeling of territoriality, the support of the public, and innumerable factors. 
+
+When the Colombian National Team visits the Maracana stadium to play against Brazil, they tend to lose the match or draw. However, they tend to tie or win when Colombia is local in the Metropolitano stadium. For this reason, to predict the result of the matches from a Machine Learning model, I must define the home team and the visiting team.
+
 ![download-7](https://user-images.githubusercontent.com/60159274/193368561-dd1398c8-dcad-4575-b3aa-2f4a30719444.png)
-
-* Who are the best players in Qatar 2022?
-
-![download-4](https://user-images.githubusercontent.com/60159274/193368542-4f9e200e-9c32-4b0b-b98c-6e2ce0186f42.png)
 
 * What are the most promising teams?
 
