@@ -3,11 +3,11 @@
 
 # World Cup QATAR 2022 Prediction: Project Overview
  
-## Code and Resources Used
+## Resources Used
 
-## QATAR22_EDA+Data_Preparation
+## EDA
 
-From datasets l1 and l2, I could answer the questions listed below, which allow us to get an idea of the favorites to win the cup according to statistics.
+From datasets l1 and l2, the notebooks n1 and n2 answer the questions listed below. These questions allow us to get an idea of the favorites to win the cup according to statistics.
 
 * Who are the best players in Qatar 2022?
 
@@ -40,7 +40,6 @@ When the Colombian National Team visits the Maracana stadium to play against Bra
 * What are the most promising teams?
 
 ![download-5](https://user-images.githubusercontent.com/60159274/193368544-11f6f51f-2a2d-4812-af89-4eed5e71763d.png)
-
 
 ## Getting_Squads_Stats
 
