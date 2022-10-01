@@ -8,8 +8,8 @@
 * Python Version: 3.7
 * Packages: Pandas, NumPy, Sklearn, Tensorflow, and Seaborn.
 * Data: 
-  * international_matches.csv - https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022 - This dataset provides a complete overview of all international soccer matches played since the 90s. On top of that, the strength of each team is provided by incorporating actual FIFA rankings as well as player strengths based on the EA Sport FIFA video game.
-  * players_22.csv - https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset - The datasets provided include the player data for FIFA 22 Career Mode.
+  * [international_matches.csv](https://www.kaggle.com/datasets/brenda89/fifa-world-cup-2022) - This dataset provides a complete overview of all international soccer matches played since the 90s. On top of that, the strength of each team is provided by incorporating actual FIFA rankings as well as player strengths based on the EA Sport FIFA video game.
+  * [players_22.csv](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) - The datasets provided include the player data for FIFA 22 Career Mode.
 
 ## Data preparation and dataset creation
 
