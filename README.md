@@ -1,5 +1,6 @@
 ![16366925243845 (1)](https://user-images.githubusercontent.com/60159274/193369854-51e7c21f-228d-47b5-9b04-a0d39f37dd19.jpg)
-![Captura de pantalla 2023-11-12 211014](https://github.com/davidcamilo0710/QATAR_2022_Prediction/assets/60159274/3d559d5f-2690-4029-850b-b03691377fd5)
+![Captura de pantalla 2023-11-12 211014](https://github.com/davidcamilo0710/QATAR_2022_Prediction/assets/60159274/3a1046cd-7cdb-404f-8f6e-b96f3c576494)
+
 
 
 # World Cup QATAR 2022 Prediction: Project Overview
